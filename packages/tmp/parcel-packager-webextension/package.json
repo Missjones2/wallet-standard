@@ -15,7 +15,7 @@
         "build": "parcel build"
     },
     "dependencies": {
-        "@parcel/plugin": "2.7.0",
+        "@parcel/plugin": "2.13.2",
         "@parcel/utils": "2.7.0",
         "nullthrows": "^1.1.1",
         "parcel": "^2.7.0"
